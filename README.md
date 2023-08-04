@@ -1,0 +1,7 @@
+## Bert For Fake News Classification:
+### Yassin Bahid
+
+BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art natural language processing (NLP) model developed by Google. It is a pre-trained language model that uses a transformer-based neural network architecture to learn contextual relations between words in a sentence. The BERT model is trained using a large amount of text data and is designed to understand the meaning of text in a way that is closer to how humans do. Unlike previous language models, BERT can take into account the context of a word within a sentence, as well as the context of the sentence within a larger body of text. The BERT model is bidirectional, which means it can take into account both the preceding and following words in a sentence when making predictions. This allows it to have a better understanding of the context in which a word is being used.
+BERT has achieved state-of-the-art results on a wide range of NLP tasks, including sentiment analysis, named entity recognition, question answering, and more. It has been used in a variety of applications, such as chatbots, language translation, and text classification. BERT is an important advancement in the field of NLP, as it provides a powerful tool for understanding and processing natural language text in a way that is more accurate and nuanced than previous models. 
+
+In this report, we modify the original BERT pretrained model to classify fake news articles.
